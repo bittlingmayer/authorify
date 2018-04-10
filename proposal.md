@@ -1,25 +1,37 @@
-Title
-Author(s)
-Links
-Links to the GitHub or GitLab repo or other place where your work is happening.
+Title:
 
-Abstract
-A short paragraph or two explaining the problem and the idea. What is the input? What is the output?
+Text author style reduction, famous authors style application to provided text
 
-Impact
-Why is this problem important? How will your work be generalisable and useful?
+Author(s):
 
-Existing Work
-What work exists on this topic? Research, datasets, libraries, services, products…
+Harutyun Beybutyan
+
+Links:
+
+https://github.com/hbeybutyan/authorify
+
+Abstract:
+
+The output of the project will be a model which will allow to reduce the style in which the text of interest is written. Further it will be possible to apply a specific writing style (e.g. Pushkin style, 50cent style) to any the text snippet.
+The practical use case of the project can be search of the possible author of the phrase, paragraph, sentance, etc...
+The fun side of the project will allow users to mimic famous authors in their messaging, essays, etc...
+
+Impact:
+There are a lot of applications which allow to find music authors with a small part of a melody from that music. It is obvious that this kind of applications were very popular and hance are useful. At the same time not much isdone in the tect processing direction. 
+
+Existing Work:
+http://u.cs.biu.ac.il/~koppel/papers/AuthorshipProfiling-cacm-final.pdf
 
 Planning
-Deliverable
-In what form will the deliverable be? A reproducible research result? A library? A dataset? An API? A demo?
+Deliverable:
+Hopefully this will be either a library or an application.
 
-What is an example of a similar deliverable for a different problem?
+The bellow link is a web app which allows to apply van-gogh style to photos:
 
-Milestone 1
-Which part of the deliverable will be finished by Milestone 1 on 2 May?
+http://funny.pho.to/van-gogh-style/
 
-Resources
-Does a dataset already exist or must you build one? Which tools or frameworks will you use?
+Milestone 1:
+Expecting to have the a more or less informative dataset and a author reduction part completed.
+
+Resources:
+TBD. Expecting to build the dataset or at least add some data to the existing one.
