@@ -22,6 +22,7 @@ There are a lot of applications which allow to find music authors with a small p
 Existing Work:
 http://u.cs.biu.ac.il/~koppel/papers/AuthorshipProfiling-cacm-final.pdf
 https://pdfs.semanticscholar.org/be9a/6b708f9345e11d40db9148d6bb266741efd0.pdf#page=277
+https://arxiv.org/pdf/1308.0850.pdf
 
 Planning
 Deliverable:
