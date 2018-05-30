@@ -24,3 +24,11 @@ Results are not exciting at this point and there are multiple reasons for that: 
 ## Further work
 
 The further work will be defining a meaningfull corellation based losses. Expectation is that meaningfull corellation definition may decrease a need in a huge dataset for getting dolid results.
+
+
+## Usage
+
+1. To train the model fill text written by particular author into the file data/traincorpus.txt.
+2. Train model with : 'main.py -c train --num-epochs=*num_epochs*'
+3. Write the users sentence in file master.py line 104
+4. Generate text with authors style with 'main.py -c generate --num-words=1'
